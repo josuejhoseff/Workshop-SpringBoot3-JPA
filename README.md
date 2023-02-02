@@ -7,12 +7,12 @@ Workshop é uma aplicação back-end construída durante o curso de Java do prof
 A aplicação consiste em criar uma banco de dados de uma possivel loja, onde há diversos clientes com varios pedidos associados a muitos produtos diferente. 
 
 ## Layout web
-![Web 1])
+![Web 1](https://github.com/josuejhoseff/Workshop-SpringBoot3-JPA/blob/master/assets/web1.png)
 
-![Web 2]()
+![Web 2](https://github.com/josuejhoseff/Workshop-SpringBoot3-JPA/blob/master/assets/web2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/josuejhoseff/Workshop-SpringBoot3-JPA/blob/master/ProjetoUML.PNG)
+![Modelo Conceitual](https://github.com/josuejhoseff/Workshop-SpringBoot3-JPA/blob/master/assets/ProjetoUML.PNG)
 
 # Tecnologias utilizadas
 ## Back end
