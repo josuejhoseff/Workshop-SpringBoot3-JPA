@@ -12,7 +12,7 @@ A aplicação consiste em criar uma banco de dados de uma possivel loja, onde h�
 ![Web 2]()
 
 ## Modelo conceitual
-![Modelo Conceitual]()
+![Modelo Conceitual](https://github.com/josuejhoseff/Workshop-SpringBoot3-JPA/blob/master/ProjetoUML.PNG)
 
 # Tecnologias utilizadas
 ## Back end
